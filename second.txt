@@ -2,6 +2,7 @@ I am second file.
 Modifying second file.
 
 Changes for new feature.
+more blah blah
+blah bah blah blah
+blah blah blah blah
 
-blah blah blah blah
-blah blah blah blah
